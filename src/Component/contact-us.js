@@ -15,7 +15,7 @@ const ContactUs = () => {
         const text = `Hello! I am ${name}. Email: ${email}, Phone: ${phone}. Message: ${message}`;
         const encodedText = encodeURIComponent(text);
       
-        const whatsappURL = `https://wa.me/918892686720?text=${encodedText}`;
+        const whatsappURL = `https://wa.me/917070914519?text=${encodedText}`;
         window.open(whatsappURL, "_blank");
       };
       
