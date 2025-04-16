@@ -31,7 +31,7 @@ const Footer = () => {
 
           <div className="col-md-3 mb-3 contact">
             <h5>Contact</h5>
-            <p><strong>Email:</strong> <a href="mailto:devatoursandtravels2969@gmail.com">devatoursandtravels2969@gmail.com</a></p>
+            <p><strong>Email:</strong> <a href="mailto:devatours24x7@gmail.com">devatours24x7@gmail.com</a></p>
             <p><strong>Phone:</strong> <a href="tel:+917070914519">+91 70709 14519</a></p>
             <p><strong>Location:</strong> Jamshedpur, Jharkhand</p>
           </div>

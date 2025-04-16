@@ -52,7 +52,7 @@ const ContactUs = () => {
         <div className="col-md-6 contact-info">
           <h5>Reach Us At</h5>
           <p><strong>📞 Phone:</strong> <a href="tel:+917070914519">+91 70709 14519</a></p>
-          <p><strong>📧 Email:</strong> <a href="devatours@gmail.com">devatours@gmail.com</a></p>
+          <p><strong>📧 Email:</strong> <a href="devatours24x7@gmail.com">devatours24x7@gmail.com</a></p>
           <p><strong>📍 Address:</strong> Jamshedpur Baridih Vidyapati Nagar Sindhu Road, Near Patel Club</p>
 
           <div className="map-container mt-4">
