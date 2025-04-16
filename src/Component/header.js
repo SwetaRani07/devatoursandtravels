@@ -18,7 +18,7 @@ const AppNavbar = () => {
                 <div className="d-flex border-section">
                     <div className="round-border"><a href="tel:+917070914519"><PiPhoneCallDuotone /> 24X7 | +91-7070914519</a></div>
                     <div className="round-border">
-                        <a href="mailto:devatours@gmail.com"><HiOutlineMail /> devatours@gmail.com </a>
+                        <a href="mailto:devatoursandtravels2969@gmail.com"><HiOutlineMail /> devatoursandtravels2969@gmail.com </a>
                     </div>
                 </div>
                 </Container>
