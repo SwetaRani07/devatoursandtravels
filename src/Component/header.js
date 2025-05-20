@@ -27,7 +27,7 @@ const AppNavbar = () => {
         <Navbar expand="lg">
             <Container>
                 <Navbar.Brand onClick={() => navigate("/")} style={{ cursor: "pointer" }}>
-                    <img src="../assets/main-logo-light.png" width="150" />
+                    <img src="../assets/main-logo-light.png" width="150" alt="Deva Tours and Travels Logo" />
                 </Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">

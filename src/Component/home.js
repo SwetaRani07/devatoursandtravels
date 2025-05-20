@@ -37,14 +37,14 @@ function Home() {
         <a className="btn" href="/services">See Our Popular Routes and Pricing</a>
         <Container className="block d-flex">
           <div className="content">
-            <img src="../assets/address-pickup.jpg" />
+            <img src="../assets/address-pickup.jpg" alt="Image for Address Pickup" />
             <div className="d-flex">
               <MdLocationOn /><h4>Address Pickup</h4>
             </div>
             <p>We always pick up our clients on time, 24/7 availability.</p>
           </div>
           <div className="content">
-          <img src="../assets/airport-transfer.jpg" />
+          <img src="../assets/airport-transfer.jpg" alt="Image for Airport Transfer" />
             <div className="d-flex">
               <TbBuildingAirport />
               <h4>Airport Transfer</h4>
@@ -52,7 +52,7 @@ function Home() {
             <p>Our cab service is available 24 hours a day to get you to and from the airport with experienced drivers.</p>
           </div>
           <div className="content">
-          <img src="../assets/49c123e84c0b364ae659be4b5e61c93a.jpg" />
+          <img src="../assets/49c123e84c0b364ae659be4b5e61c93a.jpg" alt="Image for long distance service" />
             <div className="d-flex">
               <GiPathDistance />
               <h4>Long Distance</h4>

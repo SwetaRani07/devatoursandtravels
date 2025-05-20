@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="container py-5">
         <div className="row">
           <div className="col-md-4 mb-3">
-            <img className="mb-2" height={100} src="../assets/main-logo-light.png" />
+            <img className="mb-2" height={100} src="../assets/main-logo-light.png" alt="Deva Tours and Travels Logo" />
             <p>
               Reliable cab services. Book your next ride with us and
               enjoy safe and comfortable travel.
